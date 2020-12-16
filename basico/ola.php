@@ -11,4 +11,4 @@ echo "Mundo!";
 
 
 <?php
-phpinfo();
+//phpinfo();
