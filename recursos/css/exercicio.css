@@ -1,6 +1,6 @@
 body.exercicio {
     grid-template-rows: 120px 60px 1fr 60px;
-    grid-template-areas:
+    grid-template-areas: 
         "cabecalho"
         "navegacao"
         "principal"
