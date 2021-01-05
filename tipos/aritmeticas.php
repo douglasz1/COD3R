@@ -13,7 +13,7 @@ echo round(7 / 4), '<br>';
 echo 7 % 4, '<br>';
 echo 7 % 2, '<br>';
 echo 8 % 2, '<br>';
-echo 7 / 2, '<br>';
+echo 7 / 0, '<br>';
 // echo intdiv(7, 0); # erro!
 echo 4 ** 2, '<br>';
 
