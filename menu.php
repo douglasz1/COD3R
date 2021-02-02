@@ -1,4 +1,5 @@
 <nav class="modulos">
+<<<<<<< HEAD
     <div class="modulo azul">
         <h3>13. API</h3>
         <ul>
@@ -39,6 +40,8 @@
             </li>
         </ul>
     </div>
+=======
+>>>>>>> 1f2dd5e4090e249aa2f871b80ce5938fddb45c25
     <div class="modulo vermelho">
         <h3>12. Sessão</h3>
         <ul>
